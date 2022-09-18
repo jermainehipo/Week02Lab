@@ -6,8 +6,10 @@
 package simplecalc;
 import java.util.Scanner;
 /**
- *
- * @author jerma
+ * Simple Calculator
+ * Calculator that allows the user to do arithmetic calculations.
+ * @author Jermaine Hipolito
+ * @version September 17, 2022
  */
 public class SimpleCalc {
 
